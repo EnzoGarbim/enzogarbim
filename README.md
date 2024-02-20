@@ -22,7 +22,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enzogarbim&bg_color=0d1117&color=195CD1&line=98b0b6&point=00FF7F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enzogarbim&bg_color=0d1117&color=195CD1&line=19CADF&point=19CADF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=195CD1&height=120&section=footer"/>
