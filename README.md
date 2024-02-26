@@ -18,14 +18,21 @@
  </div>
  
 
-### Studying in this moment:
+### Studying In This Moment:
 <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="GIF" height="200" width="280" src="https://github.com/GabrielVitorGL/GabrielVitorGL/blob/main/GIF_v2.gif?raw=true">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;
 </div>
+
+<div id="header" align="center">
+    <a href="yhttps://github.com/dev-dragon-ahmed/">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="400"/>
+       </a>
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=195CD1&height=120&section=footer"/>
