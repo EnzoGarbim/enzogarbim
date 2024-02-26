@@ -28,7 +28,7 @@
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;
 </div>
 
-<div id="header" align="center">
+<div id="header" align="right">
     <a href="yhttps://github.com/dev-dragon-ahmed/">
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="400"/>
        </a>
