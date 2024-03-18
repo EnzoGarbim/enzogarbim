@@ -4,11 +4,9 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=enzogarbim&show_icons=true&count_private=true&hide_border=true&title_color=195CD1&icon_color=5186E44&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzogarbim&layout=compact&hide_border=true&title_color=195CD1&text_color=5186E44&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=enzogarbim&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=5186E44&text_color=c9d1d9&bg_color=0d1117" alt="Enzo Garbim github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohgarbim&layout=compact&hide_border=true&title_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-
-
 
 <div align="center"> 
 <a href="https://instagram.com/enzogarbim_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
